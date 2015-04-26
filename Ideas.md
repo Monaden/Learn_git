@@ -20,6 +20,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 
 ## Web
 * Ny hemsida till programmet
+* En sida där ett antal personer får skriva ett ord/mening i taget för att skapa en historia
 
 ## Annat
 * "Multiplayer" texteditering (Google docs för kod)
