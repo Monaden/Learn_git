@@ -14,6 +14,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * Top-down RPG
 * MUD
 * Minecraft klon
+* Fighter
 
 ## Skolrelaterat 
 * Egen DFA/NFA builder
@@ -25,3 +26,4 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 ## Annat
 * "Multiplayer" texteditering (Google docs för kod)
 * Android/iOS app
+* Malware
