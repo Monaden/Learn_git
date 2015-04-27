@@ -18,12 +18,22 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 
 ## Skolrelaterat 
 * Egen DFA/NFA builder
+* Textsöknings programm mha reguljära uttryck/automator
 
 ## Web
 * Ny hemsida till programmet
 * En sida där ett antal personer får skriva ett ord/mening i taget för att skapa en historia
+* Image hosting sida
+* Social networking sida
+
+## Bibliotek
+* Linjär alegbra bibilotek
+* Analys bibilotek
+* Bibilotek med olika datastrukturer (Javas Collections Framework)
 
 ## Annat
 * "Multiplayer" texteditering (Google docs för kod)
 * Android/iOS app
 * Malware
+* Text Editor
+* Youtube downloader
