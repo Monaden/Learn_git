@@ -15,6 +15,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * MUD
 * Minecraft klon
 * Fighter
+* OpenGL
 
 ## Skolrelaterat 
 * Egen DFA/NFA builder
