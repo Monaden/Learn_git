@@ -19,7 +19,8 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 
 ## Skolrelaterat 
 * Egen DFA/NFA builder
-* Textsöknings programm mha reguljära uttryck/automator
+* Textsöknings program mha reguljära uttryck/automator
+* Steg-för-steg Matte applikation/app
 
 ## Web
 * Ny hemsida till programmet
