@@ -39,5 +39,5 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * Malware
 * Text Editor
 * Youtube downloader
-* Program som kan beräkna hur man kan välja kurser om man vill läsa en kurs som har förkrav
+* Program som kan beräkna hur man kan välja kurser om man vill läsa en kurs som har förkrav (course dependency)
 * MonadenScript
