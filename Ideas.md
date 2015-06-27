@@ -20,7 +20,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * Wordfeud-bot
 
 ## Skolrelaterat 
-* Egen DFA/NFA builder
+* [Egen DFA/NFA builder](https://github.com/Monaden/automatabuilder)
 * Textsöknings program mha reguljära uttryck/automator
 * Steg-för-steg Matte applikation/app
 
