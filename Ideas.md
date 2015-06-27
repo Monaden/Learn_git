@@ -6,7 +6,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 ## Networking
 * Chat / IRC-Client
 * FTP Client
-* P2P Filöverföring
+* [P2P Filöverföring](https://github.com/Monaden/Poker)
 * Torrent program
 
 ## Spel
@@ -16,7 +16,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * Minecraft klon
 * Fighter
 * OpenGL/LWJGL
-* Pokerspel ( + bot )
+* [Pokerspel ( + bot )](https://github.com/Monaden/Poker)
 * Wordfeud-bot
 
 ## Skolrelaterat 
