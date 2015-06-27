@@ -29,7 +29,7 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * [En sida där ett antal personer får skriva ett ord/mening i taget för att skapa en historia](https://github.com/Monaden/Collaborastory)
 * Image hosting sida
 * Social networking sida
-* Program som kan beräkna hur man kan välja kurser om man vill läsa en kurs som har förkrav (course dependency)
+* [Program som kan beräkna hur man kan välja kurser om man vill läsa en kurs som har förkrav (course dependency)](https://github.com/Monaden/course_dependency)
 
 ## Bibliotek
 * Linjär alegbra bibilotek
