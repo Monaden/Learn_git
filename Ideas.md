@@ -16,6 +16,8 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * Minecraft klon
 * Fighter
 * OpenGL/LWJGL
+* Pokerspel ( + bot )
+* Wordfeud-bot
 
 ## Skolrelaterat 
 * Egen DFA/NFA builder
