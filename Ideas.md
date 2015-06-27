@@ -26,9 +26,10 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 
 ## Web
 * Ny hemsida till programmet
-* En sida där ett antal personer får skriva ett ord/mening i taget för att skapa en historia
+* [En sida där ett antal personer får skriva ett ord/mening i taget för att skapa en historia](https://github.com/Monaden/Collaborastory)
 * Image hosting sida
 * Social networking sida
+* Program som kan beräkna hur man kan välja kurser om man vill läsa en kurs som har förkrav (course dependency)
 
 ## Bibliotek
 * Linjär alegbra bibilotek
@@ -41,5 +42,4 @@ Samling idéer på program som vi kan göra. Lägg till allt ni kan hitta på.
 * Malware
 * Text Editor
 * Youtube downloader
-* Program som kan beräkna hur man kan välja kurser om man vill läsa en kurs som har förkrav (course dependency)
 * MonadenScript
